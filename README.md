@@ -56,6 +56,23 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
 
+</a>
+</p>
+</details>
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/Masterrockiei/Sakura
+# Install Packages
+pip3 install -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
+
+
 ## Commands
 ```
 start - check bot alive
