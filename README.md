@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝑺𝑨𝑲𝑼𝑹𝑨+𝑩𝑶𝑻!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝑻𝑬𝑨𝑴+𝑺𝑨𝑲𝑼𝑹𝑨+𝑩𝑶𝑻!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/4ebcf03c6c90fbe7021dc.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> 𝑺𝒂𝒌𝒖𝒓𝒂 𝑩𝒐𝒕</b>
