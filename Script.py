@@ -29,7 +29,7 @@ class script(object):
 
 <code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Unni0240><b>𝙰𝚖𝚊𝚕 𝙽𝚊𝚝𝚑</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
