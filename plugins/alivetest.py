@@ -33,7 +33,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-@Client.on_message(filters.command("alive"))
+@Client.on_message(filters.command("stalive"))
 async def alive(_, m: Message):
     user = m.from_user
     uptime = get_readable_time((time.time() - StartTime))
