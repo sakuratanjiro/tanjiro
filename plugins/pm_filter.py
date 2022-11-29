@@ -876,7 +876,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[                       
             InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele'),
             InlineKeyboardButton('𝚂𝙷𝙰𝚁𝙴-𝚃𝙴𝚇𝚃', callback_data='sharetxt'),
-            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata')
+            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='FILE_TXT')
             ],[           
             InlineKeyboardButton('𝙹𝚂𝙾𝙽𝙴', callback_data='son'),
             InlineKeyboardButton('𝚃𝚃𝚂', callback_data='ttss'),           
